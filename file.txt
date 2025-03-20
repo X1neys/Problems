@@ -1,0 +1,11 @@
+enrolment sub class
+
+slaes sub class 
+client is a main class
+parent class = super class 
+child class = sub class for getting the properties of parent class
+inheritance = is a mechanism in which one object acquires all the properties and behaviors of parent object
+incapsulation = is a mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit. In encapsulation, the variables of a class will be hidden from other classes, and can be accessed only through the methods of their current class. Therefore, it is also known as data hiding.
+appliance = is a class that is used to create objects of the class and to access the methods of the class
+
+
